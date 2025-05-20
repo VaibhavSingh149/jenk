@@ -2,5 +2,12 @@ groovy
 
 I explored the Jenkins dashboard and learned how to create a basic pipeline job using the built-in Pipeline syntax.
 I was able to configure stages, simulate actions with sleep commands, and observe each step's output using the Console Output and Stage View.
-Making a change to the pipeline and rebuilding gave me insight into how iterative and flexible Jenkins automation can be.
-Overall, I gained confidence in navigating Jenkins and understanding its core CI functionality.
+I've achieved the following tasks in the assignment
+
+
+### Objectives:
+
+- Set up a simple Jenkins pipeline
+- Navigate key Jenkins interface elements
+- Monitor build status and logs
+- Understand basic Jenkins configuration
